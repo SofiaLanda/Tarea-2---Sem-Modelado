@@ -1,4 +1,4 @@
-[t,x]=ode45(@funT2,[0 10],[0 (35*pi)/180 0 0]);
+[t,x]=ode45(@funcionTarea2,[0 10],[0 (35*pi)/180 0 0]);
 %%
 figure(1)
 plot(t,x(:,1));

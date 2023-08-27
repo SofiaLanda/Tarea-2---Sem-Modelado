@@ -1,4 +1,4 @@
-function dx=funT2(t,x)
+function dx=funcionTarea2(t,x)
 %% PARAMETROS
 m1=0.2;
 L1=0.3;
